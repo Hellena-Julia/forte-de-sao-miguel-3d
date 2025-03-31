@@ -1,0 +1,11 @@
+Model Information:
+* title:	Forte do Tagarete (d'Areia | do Baixio)
+* source:	https://sketchfab.com/3d-models/forte-do-tagarete-dareia-do-baixio-c0dc7962ea1444fe87e8450d22d62594
+* author:	Vila 3D - Património Cultural (https://sketchfab.com/VFC3D)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Forte do Tagarete (d'Areia | do Baixio)" (https://sketchfab.com/3d-models/forte-do-tagarete-dareia-do-baixio-c0dc7962ea1444fe87e8450d22d62594) by Vila 3D - Património Cultural (https://sketchfab.com/VFC3D) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
